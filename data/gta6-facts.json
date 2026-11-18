@@ -1,0 +1,807 @@
+{
+  "name": "GTA 6 facts with status, sources and check dates",
+  "description": "Every fact GTA VI HOW publishes about Grand Theft Auto VI, with its status label, sources and the date we last checked them. Unknown values are null.",
+  "source": "https://gtasix.how/data/",
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 18 November 2026)",
+  "generatedAt": "2026-11-18T15:05:24.580Z",
+  "lastChecked": "2026-11-18",
+  "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
+  "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
+  "facts": [
+    {
+      "key": "releaseDate",
+      "value": "2026-11-19",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Newswire: GTA VI is now set to launch November 19, 2026",
+          "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-10-22",
+      "verifiedByUs": true
+    },
+    {
+      "key": "platforms",
+      "value": [
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Support: GTA VI Platforms, Editions and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "verifiedByUs": true
+    },
+    {
+      "key": "unlockRule",
+      "value": "local-midnight",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Support: GTA VI regional pre-load and release times on PS5 and Xbox Series X|S (updated 3 Nov 2026)",
+          "url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s",
+          "tier": "primary"
+        },
+        {
+          "name": "PlayStation Support: Grand Theft Auto VI support (US)",
+          "url": "https://www.playstation.com/en-us/support/games/gta-vi-support/",
+          "tier": "primary"
+        },
+        {
+          "name": "PlayStation Store: Grand Theft Auto VI",
+          "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+          "tier": "primary"
+        },
+        {
+          "name": "Xbox Store: Grand Theft Auto VI",
+          "url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "Rockstar Support (updated 3 Nov 2026): GTA VI \"will release midnight local time on November 19, 2026, in all regions for both PlayStation 5 and XBOX Series X|S\". PlayStation Support says the same for PS5: \"releases at midnight local time on November 19, 2026\". So each time zone unlocks at its own midnight. The PlayStation Store and Xbox Store listings carry one release instant per store region (identical on both stores), which is when that region first opens, at midnight in its easternmost zone: the US store at 05:00 UTC (00:00 Eastern); Los Angeles follows at 08:00 UTC. Changed 18 Nov 2026 from one instant per store region, after checking both support pages."
+    },
+    {
+      "key": "preloadDate",
+      "value": "2026-11-10",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Newswire: Grand Theft Auto VI Pre-Load Begins on November 10",
+          "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+          "tier": "primary"
+        },
+        {
+          "name": "Rockstar Support: GTA VI regional pre-load and release times on PS5 and Xbox Series X|S (updated 3 Nov 2026)",
+          "url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s",
+          "tier": "primary"
+        },
+        {
+          "name": "Rockstar Support: Grand Theft Auto VI pre-load FAQ",
+          "url": "https://support.rockstargames.com/articles/7nPqOA2uCbpEQHXx7KVrYd/grand-theft-auto-vi-pre-load-faq",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-14",
+      "verifiedByUs": true,
+      "note": "PS5: midnight local time on 10 Nov. Xbox Series X|S: 00:00 GMT on 10 Nov everywhere. Digital pre-orders and redeemed code-in-box codes."
+    },
+    {
+      "key": "xboxPreloadUtc",
+      "value": "2026-11-10T00:00:00Z",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Newswire: Grand Theft Auto VI Pre-Load Begins on November 10",
+          "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-14",
+      "verifiedByUs": true,
+      "note": "Rockstar: \"pre-loading begins globally on Tuesday, November 10 at 12 a.m. GMT\"."
+    },
+    {
+      "key": "codeInBoxRetailDate",
+      "value": "2026-11-12",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Newswire: Grand Theft Auto VI Pre-Load Begins on November 10",
+          "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-14",
+      "verifiedByUs": true,
+      "note": "Rockstar: code-in-box versions \"should be available from retailers beginning November 12\"."
+    },
+    {
+      "key": "physicalIsCodeInBox",
+      "value": true,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Support: GTA VI Platforms, Editions and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "verifiedByUs": true,
+      "note": "The physical box contains a download code; no disc. At retailers from 12 Nov (codeInBoxRetailDate)."
+    },
+    {
+      "key": "preorderBonusDeadline",
+      "value": "2026-11-20",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Support: GTA VI Platforms, Editions and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "verifiedByUs": true,
+      "note": "Pre-orders and purchases before 20 Nov get the Vintage Vice City Pack. Digital pre-orders also get one month of GTA+."
+    },
+    {
+      "key": "singlePlayer",
+      "value": true,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Newswire: Pre-order Grand Theft Auto VI on June 25",
+          "url": "https://www.rockstargames.com/newswire/article/5171972o3ak5oa/pre-order-grand-theft-auto-vi-on-june-25",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "verifiedByUs": true,
+      "note": "Rockstar: \"Grand Theft Auto VI is a single player experience\". No online mode announced for launch."
+    },
+    {
+      "key": "fileSizeGb",
+      "value": 212,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Newswire: Grand Theft Auto VI Pre-Load Begins on November 10",
+          "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-14",
+      "verifiedByUs": true,
+      "note": "Up to 212 GB depending on the console (Rockstar, 3 Nov). A day-one patch may add to it. The Xbox Store API lists maxInstallSize 225,336,918,016 bytes (225.34 GB decimal, about 209.9 GiB), which fits \"up to 212 GB\" if the store counts in binary units; unconfirmed, so the Rockstar figure stays."
+    },
+    {
+      "key": "pcRelease",
+      "value": "Q1 2027",
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GamesBeat: GTA VI's PC release is slated for Q1 2027",
+          "url": "https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-14",
+      "verifiedByUs": false,
+      "note": "Rockstar lists only PS5 and Xbox Series X|S. The PC window is a GamesBeat report."
+    },
+    {
+      "key": "onlineMode",
+      "value": null,
+      "status": "not-announced",
+      "sources": [
+        {
+          "name": "Rockstar Newswire: Pre-order Grand Theft Auto VI on June 25",
+          "url": "https://www.rockstargames.com/newswire/article/5171972o3ak5oa/pre-order-grand-theft-auto-vi-on-june-25",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "verifiedByUs": true,
+      "note": "No online mode, name, date, price, player count, cross-play or GTA Online progress transfer announced. The launch is single player."
+    },
+    {
+      "key": "onlineReportedWindow",
+      "value": "2027",
+      "status": "reported",
+      "sources": [
+        {
+          "name": "TweakTown: Twitch CEO says GTA 6 Online is launching 'next year' (Bloomberg interview)",
+          "url": "https://www.tweaktown.com/news/113611/twitch-ceo-says-gta-6-online-is-launching-next-year/index.html",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "verifiedByUs": false,
+      "note": "Twitch CEO Dan Clancy told Bloomberg he expects multiplayer in 2027. Bloomberg called it something he \"simply anticipates\". Rockstar has not confirmed it."
+    },
+    {
+      "key": "gtaOnlineContinues",
+      "value": true,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "TweakTown: GTA Online will continue after GTA 6's release, Take-Two reiterates (Q1 FY27 earnings call)",
+          "url": "https://www.tweaktown.com/news/113044/gta-online-will-continue-after-gta-6s-release-take-two-reiterates/index.html",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-10-22",
+      "verifiedByUs": false,
+      "note": "Take-Two CEO Strauss Zelnick on the Q1 FY27 earnings call (Aug 2026): \"we do expect to support GTA Online going forward.\" Read via TweakTown, not the call transcript."
+    },
+    {
+      "key": "gtaPlusMonth",
+      "value": {
+        "psRedeemBy": "2027-03-31",
+        "xboxRedeemWithinDays": 180
+      },
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Store: GTA VI FAQ (shipping, cancelling, GTA+)",
+          "url": "https://store.rockstargames.com/game/buy-gta-vi#faq",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-14",
+      "verifiedByUs": true,
+      "note": "Only PlayStation Store and Microsoft Store pre-orders placed before 20 Nov 2026. Redeem on PS Store by 31 Mar 2027; on Xbox within 180 days of purchase."
+    },
+    {
+      "key": "rockstarStoreShipsTo",
+      "value": [
+        "Austria",
+        "Belgium",
+        "Canada",
+        "Czechia",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Ireland",
+        "Italy",
+        "Luxembourg",
+        "Netherlands",
+        "Norway",
+        "Poland",
+        "Portugal",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "United Kingdom",
+        "United States"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Store: GTA VI FAQ (shipping, cancelling, GTA+)",
+          "url": "https://store.rockstargames.com/game/buy-gta-vi#faq",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-10-22",
+      "verifiedByUs": true,
+      "note": "Physical code-in-box ships from 12 Nov. Cancel through Xsolla, Rockstar's fulfilment partner, with the order number and email."
+    },
+    {
+      "key": "psPreorderRefund",
+      "value": {
+        "freeCancelIfPaidDaysBefore": 14,
+        "windowDaysAfterOrder": 14
+      },
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Support: How to cancel a PlayStation Store pre-order",
+          "url": "https://www.playstation.com/en-us/support/store/cancel-ps-store-pre-order/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-10-22",
+      "verifiedByUs": true,
+      "note": "Paid more than 14 days before release: cancel any time up to release. Paid 14 days or less before: cancel within 14 days of ordering. Either way only if the main download, including pre-loading, has not started."
+    },
+    {
+      "key": "xboxPreorderCharge",
+      "value": {
+        "chargedUpToDaysBefore": 10
+      },
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Microsoft Support: Pre-orders for Microsoft Store",
+          "url": "https://support.microsoft.com/en-us/accounts-billing/pre-orders-for-microsoft-store",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-10-22",
+      "verifiedByUs": true,
+      "note": "Microsoft account balance is charged immediately. You can cancel any pre-order online; after billing it is processed as a refund."
+    },
+    {
+      "key": "psCodeRegionLocked",
+      "value": true,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Support: GTA VI Platforms, Editions and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-10-22",
+      "verifiedByUs": true,
+      "note": "PlayStation codes only work on accounts from the region they were bought for. Xbox codes are not region-locked."
+    },
+    {
+      "key": "cheats",
+      "value": true,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "PC Gamer: All GTA 6 cheats and how to unlock them",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
+          "tier": "trade"
+        },
+        {
+          "name": "GameSpot: All GTA 6 cheats and how to unlock them",
+          "url": "https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026; the codes and unlocks are in src/content/cheats.ts."
+    },
+    {
+      "key": "storyMissionCount",
+      "value": 91,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "PC Gamer: Here's every GTA 6 mission and chapter",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "PC Gamer's mission list (18 Nov 2026): 91 story missions in five chapters (22, 11, 26, 25 and 7). Rockstar has not published a count. Opened by us in Chrome on 18 Nov 2026 (88 missions named, 3 left out for spoilers); the list is in src/content/missions.ts."
+    },
+    {
+      "key": "trophies",
+      "value": true,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GamesRadar+: Complete GTA 6 Trophy and Achievement list",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
+          "tier": "trade"
+        },
+        {
+          "name": "PC Gamer: GTA 6 achievement list",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "GamesRadar+ (Iain Wilson, 18 Nov 2026 13:45 UTC) and PC Gamer (18 Nov 2026) both publish the full list, with a Platinum (\"Vice Got a Price!\") and a 100% completion award. Neither Sony, Microsoft nor Rockstar has shown it yet; Xbox.com's store page had no list on 18 Nov. Both opened by us in Chrome on 18 Nov 2026 at 14:30 UTC; the list is in src/content/trophies.ts."
+    },
+    {
+      "key": "trophyCount",
+      "value": 55,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GamesRadar+: Complete GTA 6 Trophy and Achievement list",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
+          "tier": "trade"
+        },
+        {
+          "name": "PC Gamer: GTA 6 achievement list",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "GamesRadar+'s list (18 Nov 2026, the day before launch): 55 trophies, 1 Platinum, 2 Gold, 6 Silver and 46 Bronze, worth 1,000 Gamerscore on Xbox. PC Gamer's list has the same 55 in the same order (15 of them shown only as \"Hidden trophy\"; an earlier count of 56 was ours, wrong). Both counted by us in Chrome on 18 Nov 2026 at 14:30 UTC."
+    },
+    {
+      "key": "missionList",
+      "value": null,
+      "status": "not-announced",
+      "sources": [],
+      "checkedAt": "2026-11-12",
+      "verifiedByUs": true,
+      "note": "No mission list or count is published by Rockstar, the PlayStation Store or the Xbox Store. Checked on the store pages on 12 Nov 2026."
+    },
+    {
+      "key": "moneySystem",
+      "value": null,
+      "status": "not-announced",
+      "sources": [],
+      "checkedAt": "2026-11-12",
+      "verifiedByUs": true,
+      "note": "No payouts, prices, money methods or in-game currency packs are published. The launch is single player and no online mode is announced."
+    },
+    {
+      "key": "ps5ProEnhanced",
+      "value": true,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Store: Grand Theft Auto VI (PS5 features and FAQ, US)",
+          "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+          "tier": "primary"
+        },
+        {
+          "name": "PlayStation: PS5 Pro (what PS5 Pro Enhanced means)",
+          "url": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-10-28",
+      "verifiedByUs": true,
+      "note": "PlayStation Store label and FAQ: released for PS5 and PS5 Pro on 19 Nov 2026. No GTA 6 Pro specifics from Sony or Rockstar."
+    },
+    {
+      "key": "xboxOptimized",
+      "value": true,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Xbox Store: Grand Theft Auto VI",
+          "url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-01",
+      "verifiedByUs": true,
+      "note": "Xbox Store (US): Optimized for Xbox Series X|S; Play with Xbox Series X|S; Single player; 13 supported languages. No resolution, frame-rate or mode details for either console."
+    },
+    {
+      "key": "xboxOnePlayable",
+      "value": false,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Support: GTA VI Platforms, Editions and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+          "tier": "primary"
+        },
+        {
+          "name": "Xbox Store: Grand Theft Auto VI",
+          "url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-01",
+      "verifiedByUs": true,
+      "note": "No Xbox One version: Rockstar Support names PS5 and Xbox Series X|S as the platforms, and the Xbox Store's 'Play with' lists Xbox Series X|S only."
+    },
+    {
+      "key": "xboxUltimateUpgradeUsd",
+      "value": 20,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Xbox Store: Grand Theft Auto VI",
+          "url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm",
+          "tier": "primary"
+        },
+        {
+          "name": "Rockstar Support: GTA VI Platforms, Editions and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-14",
+      "verifiedByUs": true,
+      "note": "Xbox Store (US) lists the Grand Theft Auto VI: Ultimate Edition Upgrade add-on at $20.00. Rockstar Support: buy it any time after the Standard code is redeemed."
+    },
+    {
+      "key": "ps5RequiredSystemUpdate",
+      "value": "26.07-14.23.00",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Support US on X: PS5 system software update required before playing GTA VI (18 Nov 2026)",
+          "url": "https://x.com/PS_Support_US/status/2122863683881619685",
+          "tier": "primary"
+        },
+        {
+          "name": "PlayStation Support: System software update features for PS5 consoles (US)",
+          "url": "https://www.playstation.com/en-us/support/hardware/ps5/system-software-info/",
+          "tier": "primary"
+        },
+        {
+          "name": "PlayStation Support: Grand Theft Auto VI support (US)",
+          "url": "https://www.playstation.com/en-us/support/games/gta-vi-support/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "PlayStation Support US (18 Nov 2026): \"Sony Interactive has issued a PS5 system software update that is required before playing Grand Theft Auto VI. Players should download this update prior to midnight on November 19.\" PlayStation's system software page lists the current version as 26.07-14.23.00 (\"some security fixes\"). Install: Settings > System > System Software > System Software Update and Settings."
+    },
+    {
+      "key": "gameAwardsNominations",
+      "value": 8,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Kotaku: Here are all The Game Awards 2026 nominees",
+          "url": "https://kotaku.com/game-awards-2026-nominees-of-the-year-gta-zelda-2000757724",
+          "tier": "trade"
+        },
+        {
+          "name": "Game Informer: Here are the nominees for The Game Awards 2026",
+          "url": "https://gameinformer.com/2026/11/17/here-are-the-nominees-for-the-game-awards-2026",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "Game of the Year, Best Game Direction, Best Narrative, Best Art Direction, Best Score and Music, Best Audio Design, Best Performance (Manni L. Perez as Lucia Caminos) and Best Action/Adventure Game. Both outlets list the same eight; thegameawards.com blocked automated checks, so this stays reported."
+    },
+    {
+      "key": "ps4Playable",
+      "value": false,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Store: Grand Theft Auto VI (PS5 features and FAQ, US)",
+          "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-10-28",
+      "verifiedByUs": true,
+      "note": "The PlayStation Store says GTA 6 will not be available for PS4."
+    },
+    {
+      "key": "dualsenseGtaVi",
+      "value": {
+        "launch": "2026-11-19",
+        "preordersOpened": "2026-09-10",
+        "prices": [
+          {
+            "region": "United States",
+            "price": "$84.99",
+            "direct": "yes"
+          },
+          {
+            "region": "Eurozone",
+            "price": "€84.99",
+            "direct": "some"
+          },
+          {
+            "region": "United Kingdom",
+            "price": "£74.99",
+            "direct": "yes"
+          },
+          {
+            "region": "Japan",
+            "price": "¥12,480 (tax included)",
+            "direct": "no"
+          }
+        ],
+        "directCountries": [
+          "United States",
+          "United Kingdom",
+          "France",
+          "Germany",
+          "Belgium",
+          "Netherlands",
+          "Luxembourg",
+          "Spain",
+          "Italy",
+          "Austria"
+        ]
+      },
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Blog: First look at the Grand Theft Auto VI Limited-Edition DualSense Wireless Controllers (3 Sep 2026)",
+          "url": "https://blog.playstation.com/2026/09/03/first-look-at-the-grand-theft-auto-vi-limited-edition-dualsense-wireless-controllers/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-14",
+      "verifiedByUs": true,
+      "note": "White: limited quantities worldwide, at direct.playstation.com and participating retailers. Black: only through direct.playstation.com where it exists; select retailers in other regions. Portugal pre-orders through playstation.com/store/hardware. Sony says launch date and availability may vary by country."
+    },
+    {
+      "key": "nikeAf1GtaVi",
+      "value": {
+        "release": "2026-11-19",
+        "priceUsd": 130,
+        "pairs": [
+          {
+            "colorway": "Black/Black-Black-Fire Pink",
+            "styleCode": "JJ7604-001"
+          },
+          {
+            "colorway": "White/White-White-Fire Pink",
+            "styleCode": "JJ7602-100"
+          },
+          {
+            "colorway": "Multi-Color/Pale Ivory-Black-Bold Berry-Fire Pink",
+            "styleCode": "JJ7603-900"
+          }
+        ]
+      },
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Sole Retriever: Travis Scott's Cactus Jack x Rockstar Games x Nike Air Force 1 Low GTA 6 Pack (31 Oct 2026)",
+          "url": "https://www.soleretriever.com/news/articles/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-gta-6-pack-release-date-november-2026",
+          "tier": "trade"
+        },
+        {
+          "name": "Hypebeast on Instagram: early look at the 'GTA VI' x Nike Air Force 1 Low pack (3 Nov 2026)",
+          "url": "https://www.instagram.com/p/DfREDbwl0xf/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-03",
+      "verifiedByUs": false,
+      "note": "Retail leaks and early photos, reported by Sole Retriever and Hypebeast. Not announced by Nike, Rockstar Games or Cactus Jack. Sole Retriever: Nike and select retailers online."
+    },
+    {
+      "key": "reviewEmbargoUtc",
+      "value": "2026-11-18T11:00:00Z",
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Insider Gaming: Grand Theft Auto 6 Review Embargo Date & Time Details (17 Nov 2026)",
+          "url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
+          "tier": "trade"
+        },
+        {
+          "name": "VICE: GTA 6 Review Embargo Date Explained (17 Nov 2026)",
+          "url": "https://www.vice.com/en/article/gta-6-review-embargo-date/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "Insider Gaming (sources, not Rockstar): reviews go live at 00:00 New Zealand time on 19 Nov, which is 03:00 PT / 06:00 ET / 11:00 GMT on 18 Nov. VICE: Rockstar has not confirmed a review embargo date. Confirmed in practice on 18 Nov: GamesRadar+, The Guardian and Digital Spy published their reviews at 11:00 UTC."
+    }
+  ],
+  "editions": [
+    {
+      "slug": "standard",
+      "name": "Standard Edition",
+      "includesGame": true,
+      "formats": "Digital, or physical code-in-box (no disc)",
+      "contents": [
+        "Grand Theft Auto VI"
+      ],
+      "priceUsd": {
+        "key": "editions.standard.priceUsd",
+        "value": 79.99,
+        "status": "confirmed",
+        "sources": [
+          {
+            "name": "Xbox Store: Grand Theft Auto VI",
+            "url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm",
+            "tier": "primary"
+          }
+        ],
+        "checkedAt": "2026-10-22",
+        "verifiedByUs": true
+      }
+    },
+    {
+      "slug": "ultimate",
+      "name": "Ultimate Edition",
+      "includesGame": true,
+      "formats": "Digital only. Physical owners can buy the Ultimate Edition Upgrade after redeeming their code",
+      "contents": [
+        "Grand Theft Auto VI",
+        "GTAVI: Ultimate Edition Upgrade",
+        "'95 Grotti Cheetah",
+        "Hawk & Little Morgan Revolvers",
+        "Personalized Weapon Variants",
+        "Vice City Styles",
+        "Jason's Safehouse Vehicles",
+        "Ganado Retro Build",
+        "Rideout Customs Mod Shop",
+        "Sara's Unisex Salon",
+        "Shitzu Squalo",
+        "Stock 305 Clothing Store",
+        "'67 Vapid Dominator Buggy and Garage",
+        "Electric Fang Tattoo Parlor",
+        "One-Eyed Willie's Mod Shop",
+        "Goodtime Gear",
+        "PTT Youngin$ Compound",
+        "Classic Car Collection"
+      ],
+      "priceUsd": {
+        "key": "editions.ultimate.priceUsd",
+        "value": 99.99,
+        "status": "confirmed",
+        "sources": [
+          {
+            "name": "Xbox Store: GTA VI Ultimate Edition",
+            "url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-ultimate-edition/9nnzsnhlr63l",
+            "tier": "primary"
+          },
+          {
+            "name": "PlayStation Store: Grand Theft Auto VI",
+            "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+            "tier": "primary"
+          },
+          {
+            "name": "Rockstar Support: GTA VI Platforms, Editions and Versions",
+            "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+            "tier": "primary"
+          }
+        ],
+        "checkedAt": "2026-10-22",
+        "verifiedByUs": true
+      }
+    },
+    {
+      "slug": "collectors",
+      "name": "The Goodtime State – Vice City Collection",
+      "includesGame": false,
+      "formats": "Physical merchandise box (19 × 13.5 × 12.5 in). Game sold separately",
+      "contents": [
+        "Macca the Gator figure",
+        "Oakley Frogskins sunglasses",
+        "New Era 9FORTY A-Frame snapback hat",
+        "Leonida Keys crossbody bag",
+        "Macca the Gator magnetic mirror",
+        "Chunkee the Manatee shot glass",
+        "Vice City swizzle spoon",
+        "Vice City razor blade keychain",
+        "Leonida Keys enamel pin set",
+        "Premium sticker pack",
+        "Double-sided souvenir poster"
+      ],
+      "priceUsd": {
+        "key": "editions.collectors.priceUsd",
+        "value": 399.99,
+        "status": "confirmed",
+        "sources": [
+          {
+            "name": "Rockstar Store: The Goodtime State – Vice City Collection",
+            "url": "https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection",
+            "tier": "primary"
+          },
+          {
+            "name": "GameRiv: GTA 6 Vice City Collection up for pre-order at $399.99",
+            "url": "https://gameriv.com/gta-6-vice-city-collection-is-up-for-preorder-at-399-99-but-the-game-is-sold-separately/",
+            "tier": "trade"
+          }
+        ],
+        "checkedAt": "2026-10-22",
+        "verifiedByUs": true,
+        "note": "US$399.99 in the Rockstar Store's own product data (as Google shows it for the store page). The store prices by location; we also checked PLN 1,740.99 (Poland)."
+      }
+    }
+  ]
+}

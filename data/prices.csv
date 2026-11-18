@@ -1,0 +1,20 @@
+region_code,region,currency,edition,price,source_urls,checked_at
+US,United States,USD,Standard Edition,79.99,https://www.playstation.com/en-us/games/grand-theft-auto-vi/ https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+US,United States,USD,Ultimate Edition,99.99,https://www.playstation.com/en-us/games/grand-theft-auto-vi/ https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+CA,Canada,CAD,Standard Edition,109.99,https://www.playstation.com/en-ca/games/grand-theft-auto-vi/ https://www.xbox.com/en-CA/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+CA,Canada,CAD,Ultimate Edition,139.99,https://www.playstation.com/en-ca/games/grand-theft-auto-vi/ https://www.xbox.com/en-CA/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+BR,Brazil,BRL,Standard Edition,449.9,https://www.playstation.com/pt-br/games/grand-theft-auto-vi/ https://www.xbox.com/pt-BR/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+BR,Brazil,BRL,Ultimate Edition,549.9,https://www.playstation.com/pt-br/games/grand-theft-auto-vi/ https://www.xbox.com/pt-BR/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+UK,United Kingdom,GBP,Standard Edition,69.99,https://www.playstation.com/en-gb/games/grand-theft-auto-vi/ https://www.xbox.com/en-GB/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+UK,United Kingdom,GBP,Ultimate Edition,89.99,https://www.playstation.com/en-gb/games/grand-theft-auto-vi/ https://www.xbox.com/en-GB/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+DE,Germany (eurozone),EUR,Standard Edition,79.99,https://www.playstation.com/de-de/games/grand-theft-auto-vi/ https://www.xbox.com/de-DE/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+DE,Germany (eurozone),EUR,Ultimate Edition,99.99,https://www.playstation.com/de-de/games/grand-theft-auto-vi/ https://www.xbox.com/de-DE/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+PL,Poland,PLN,Standard Edition,349,https://www.playstation.com/pl-pl/games/grand-theft-auto-vi/ https://www.xbox.com/pl-PL/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+PL,Poland,PLN,Ultimate Edition,429,https://www.playstation.com/pl-pl/games/grand-theft-auto-vi/ https://www.xbox.com/pl-PL/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+JP,Japan,JPY,Standard Edition,9800,https://www.playstation.com/ja-jp/games/grand-theft-auto-vi/ https://www.xbox.com/ja-JP/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+JP,Japan,JPY,Ultimate Edition,12280,https://www.playstation.com/ja-jp/games/grand-theft-auto-vi/ https://www.xbox.com/ja-JP/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+NZ,New Zealand,NZD,Standard Edition,139.95,https://www.playstation.com/en-nz/games/grand-theft-auto-vi/ https://www.xbox.com/en-NZ/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-11-17
+NZ,New Zealand,NZD,Ultimate Edition,174.95,https://www.playstation.com/en-nz/games/grand-theft-auto-vi/ https://www.xbox.com/en-NZ/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-11-17
+AU,Australia,AUD,Standard Edition,129.95,https://www.playstation.com/en-au/games/grand-theft-auto-vi/ https://www.xbox.com/en-AU/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+AU,Australia,AUD,Ultimate Edition,159.95,https://www.playstation.com/en-au/games/grand-theft-auto-vi/ https://www.xbox.com/en-AU/games/store/grand-theft-auto-vi/9p3h4968grsm,2026-10-22
+US,United States,USD,The Goodtime State – Vice City Collection,399.99,https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection https://gameriv.com/gta-6-vice-city-collection-is-up-for-preorder-at-399-99-but-the-game-is-sold-separately/,2026-10-22
