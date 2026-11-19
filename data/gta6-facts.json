@@ -6,9 +6,9 @@
     "name": "CC BY 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 18 November 2026)",
-  "generatedAt": "2026-11-18T15:05:24.580Z",
-  "lastChecked": "2026-11-18",
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 19 November 2026)",
+  "generatedAt": "2026-11-19T00:15:50.631Z",
+  "lastChecked": "2026-11-19",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
   "facts": [
@@ -388,6 +388,21 @@
       "note": "PC Gamer's mission list (18 Nov 2026): 91 story missions in five chapters (22, 11, 26, 25 and 7). Rockstar has not published a count. Opened by us in Chrome on 18 Nov 2026 (88 missions named, 3 left out for spoilers); the list is in src/content/missions.ts."
     },
     {
+      "key": "completionRequirements",
+      "value": 35,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Rock Paper Shotgun: GTA 6 100% completion checklist",
+          "url": "https://www.rockpapershotgun.com/gta-6-100-percent-completion",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "Rock Paper Shotgun (Jeremy Blum, 18 Nov 2026 17:21 UTC): the checklist unlocks after the 91 story missions and has 35 requirements in three groups (Story & Tasks 12, Exploration & Activities 20, Discovery 3), most of them less than everything (e.g. 50 of 91 Stick Ups). Rockstar has not published it. Opened by us in Chrome on 18 Nov 2026 at 19:35 UTC; the list, in our words, is trackerLists in src/content/tools.ts."
+    },
+    {
       "key": "trophies",
       "value": true,
       "status": "reported",
@@ -400,6 +415,11 @@
         {
           "name": "PC Gamer: GTA 6 achievement list",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
+          "tier": "trade"
+        },
+        {
+          "name": "Push Square: GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
           "tier": "trade"
         }
       ],
@@ -421,11 +441,16 @@
           "name": "PC Gamer: GTA 6 achievement list",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
           "tier": "trade"
+        },
+        {
+          "name": "Push Square: GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
+          "tier": "trade"
         }
       ],
       "checkedAt": "2026-11-18",
       "verifiedByUs": true,
-      "note": "GamesRadar+'s list (18 Nov 2026, the day before launch): 55 trophies, 1 Platinum, 2 Gold, 6 Silver and 46 Bronze, worth 1,000 Gamerscore on Xbox. PC Gamer's list has the same 55 in the same order (15 of them shown only as \"Hidden trophy\"; an earlier count of 56 was ours, wrong). Both counted by us in Chrome on 18 Nov 2026 at 14:30 UTC."
+      "note": "GamesRadar+'s list (18 Nov 2026, the day before launch): 55 trophies, 1 Platinum, 2 Gold, 6 Silver and 46 Bronze, worth 1,000 Gamerscore on Xbox. PC Gamer's list has the same 55 in the same order (15 of them shown only as \"Hidden trophy\"; an earlier count of 56 was ours, wrong). Both counted by us in Chrome on 18 Nov 2026 at 14:30 UTC. Push Square (Liam Croft, 18 Nov 2026, opened by us at 16:15 UTC) also counts 55 PS5 trophies with a Platinum that needs 100% completion."
     },
     {
       "key": "missionList",
@@ -441,9 +466,9 @@
       "value": null,
       "status": "not-announced",
       "sources": [],
-      "checkedAt": "2026-11-12",
+      "checkedAt": "2026-11-19",
       "verifiedByUs": true,
-      "note": "No payouts, prices, money methods or in-game currency packs are published. The launch is single player and no online mode is announced."
+      "note": "Rockstar has published no payouts, money methods or in-game currency packs; outlets and creators report methods (see moneyMethods in tools.ts). The launch is single player and no online mode is announced."
     },
     {
       "key": "ps5ProEnhanced",
@@ -459,11 +484,16 @@
           "name": "PlayStation: PS5 Pro (what PS5 Pro Enhanced means)",
           "url": "https://www.playstation.com/en-us/ps5/ps5-pro/",
           "tier": "primary"
+        },
+        {
+          "name": "Rockstar Newswire: Pre-Load Grand Theft Auto VI Now",
+          "url": "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+          "tier": "primary"
         }
       ],
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-18",
       "verifiedByUs": true,
-      "note": "PlayStation Store label and FAQ: released for PS5 and PS5 Pro on 19 Nov 2026. No GTA 6 Pro specifics from Sony or Rockstar."
+      "note": "PlayStation Store label and FAQ: released for PS5 and PS5 Pro on 19 Nov 2026. Rockstar Newswire: on PS5 Pro, sharper image through PSSR and ray-traced shadows that only the Pro has; still a 30 fps target (see targetFps)."
     },
     {
       "key": "xboxOptimized",
@@ -496,9 +526,54 @@
           "tier": "primary"
         }
       ],
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-18",
       "verifiedByUs": true,
-      "note": "No Xbox One version: Rockstar Support names PS5 and Xbox Series X|S as the platforms, and the Xbox Store's 'Play with' lists Xbox Series X|S only."
+      "note": "No Xbox One version to install: Rockstar Support names PS5 and Xbox Series X|S as the platforms, and the Xbox Store's 'Play with' lists Xbox Series X|S only. Since 18 Nov Rockstar Support says Xbox One owners can stream it through Xbox Cloud Gaming (xboxCloudGaming)."
+    },
+    {
+      "key": "xboxCloudGaming",
+      "value": true,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Support: GTA VI Platforms, Editions and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "Rockstar Support (updated 18 Nov 2026): GTA VI will be available via Xbox Cloud Gaming on Xbox Series X|S and Xbox One consoles, using Xbox Series S graphics settings, and fully supports Remote Play on PlayStation and Xbox consoles."
+    },
+    {
+      "key": "targetFps",
+      "value": 30,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Newswire: Pre-Load Grand Theft Auto VI Now",
+          "url": "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "Rockstar Newswire (pre-load post, read 18 Nov 2026): GTA VI was built for the current generation of consoles (PS5 and Xbox Series X|S) targeting 30 frames per second; the PS5 Pro adds PSSR clarity and ray-traced shadows, with no different frame-rate target named."
+    },
+    {
+      "key": "performanceMode",
+      "value": false,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Polygon: GTA 6 won't be getting a future performance mode, even on PS5 Pro",
+          "url": "https://www.polygon.com/gta-6-30-fps-locked-ps5-pro-performance/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-18",
+      "verifiedByUs": true,
+      "note": "Polygon (18 Nov 2026, citing Rockstar's statement to Kotaku): no performance mode on current consoles, now or in a later patch, PS5 Pro included; Rockstar's Marc Chambers said the Pro's processor is only slightly faster than the base PS5's and can't run the game's simulation above 30 fps (see targetFps)."
     },
     {
       "key": "xboxUltimateUpgradeUsd",
