@@ -7,7 +7,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
   "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 19 November 2026)",
-  "generatedAt": "2026-11-19T00:15:50.631Z",
+  "generatedAt": "2026-11-19T15:39:08.632Z",
   "lastChecked": "2026-11-19",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
@@ -366,11 +366,16 @@
           "name": "GameSpot: All GTA 6 cheats and how to unlock them",
           "url": "https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/",
           "tier": "trade"
+        },
+        {
+          "name": "Polygon: All cheat codes in GTA 6",
+          "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+          "tier": "trade"
         }
       ],
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-19",
       "verifiedByUs": true,
-      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026; the codes and unlocks are in src/content/cheats.ts."
+      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026. Polygon (Giovanni Colantonio, 19 Nov 2026, tested on PS5; opened by us in Chrome 19 Nov) says the same about the story, the phone and saving, and adds that achievements can't be earned while a cheat is on. The codes and unlocks are in src/content/cheats.ts."
     },
     {
       "key": "storyMissionCount",
@@ -451,6 +456,21 @@
       "checkedAt": "2026-11-18",
       "verifiedByUs": true,
       "note": "GamesRadar+'s list (18 Nov 2026, the day before launch): 55 trophies, 1 Platinum, 2 Gold, 6 Silver and 46 Bronze, worth 1,000 Gamerscore on Xbox. PC Gamer's list has the same 55 in the same order (15 of them shown only as \"Hidden trophy\"; an earlier count of 56 was ours, wrong). Both counted by us in Chrome on 18 Nov 2026 at 14:30 UTC. Push Square (Liam Croft, 18 Nov 2026, opened by us at 16:15 UTC) also counts 55 PS5 trophies with a Platinum that needs 100% completion."
+    },
+    {
+      "key": "preLaunchUnitsMillions",
+      "value": 17.07,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GameSpot: GTA 6 Passes 17 Million Copies Sold And $1.6 Billion In Revenue On Eve Of Launch (18 Nov 2026)",
+          "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-19",
+      "verifiedByUs": true,
+      "note": "GameSpot (Eddie Makuch, 18 Nov 2026 12:37 UTC), citing Sensor Tower's sales tracker: 17.07 million units sold via pre-purchases before launch, about $1.65 billion gross revenue; 12.73 million on PS5 ($1.23 billion) and 4.35 million on Xbox Series X|S ($419 million), a 75/25 split. An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 19 Nov 2026 at 05:10 UTC."
     },
     {
       "key": "missionList",
