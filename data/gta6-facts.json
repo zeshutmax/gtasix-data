@@ -7,7 +7,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
   "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 20 November 2026)",
-  "generatedAt": "2026-11-19T23:38:17.410Z",
+  "generatedAt": "2026-11-20T15:14:49.797Z",
   "lastChecked": "2026-11-20",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
@@ -157,6 +157,21 @@
       "checkedAt": "2026-11-09",
       "verifiedByUs": true,
       "note": "Pre-orders and purchases before 20 Nov get the Vintage Vice City Pack. Digital pre-orders also get one month of GTA+."
+    },
+    {
+      "key": "vintagePackPriceGbp",
+      "value": 4.49,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Store UK: Grand Theft Auto VI: Vintage Vice City Pack",
+          "url": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-CONTENTPACK00001",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-20",
+      "verifiedByUs": true,
+      "note": "From 20 Nov 2026 the Vintage Vice City Pack (the former pre-order bonus) is sold separately: £4.49 on PlayStation Store UK, release date 20 Nov 2026 00:00 UTC. The Rockstar Store's GTA VI page now links \"Buy Now\" to it for PS5 buyers outside Australia, New Zealand and Japan. Other regions and Xbox not read yet. Opened by us on 20 Nov 2026 at 15:15 UTC."
     },
     {
       "key": "singlePlayer",
@@ -476,6 +491,36 @@
       "checkedAt": "2026-11-19",
       "verifiedByUs": true,
       "note": "GameSpot (Eddie Makuch, 18 Nov 2026 12:37 UTC), citing Sensor Tower's sales tracker: 17.07 million units sold via pre-purchases before launch, about $1.65 billion gross revenue; 12.73 million on PS5 ($1.23 billion) and 4.35 million on Xbox Series X|S ($419 million), a 75/25 split. An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 19 Nov 2026 at 05:10 UTC."
+    },
+    {
+      "key": "launchDayUnitsMillions",
+      "value": 24.58,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "VGC: GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest (20 Nov 2026)",
+          "url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-20",
+      "verifiedByUs": true,
+      "note": "VGC (Chris Scullion, 20 Nov 2026 09:42 UTC), citing Sensor Tower's estimate: 24.58 million copies sold by the end of the first day (19 Nov 2026), about 75% of them on PS5 (roughly 18.4 million) and around 6.15 million on Xbox Series X|S. An unofficial third-party estimate; neither Rockstar nor Take-Two has published day-one sales. Opened by us on 20 Nov 2026 at 10:15 UTC."
+    },
+    {
+      "key": "launchDayRevenueUsdBillions",
+      "value": 2.36,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "VGC: GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest (20 Nov 2026)",
+          "url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-20",
+      "verifiedByUs": true,
+      "note": "VGC (Chris Scullion, 20 Nov 2026 09:42 UTC), citing Sensor Tower's estimate: around $2.36 billion in total revenue on the first day (19 Nov 2026), from an estimated 24.58 million copies. GTA 5 made more than $815 million from about 11.21 million copies in its first day. An unofficial third-party estimate; neither Rockstar nor Take-Two has published day-one revenue. Opened by us on 20 Nov 2026 at 10:15 UTC."
     },
     {
       "key": "missionList",
