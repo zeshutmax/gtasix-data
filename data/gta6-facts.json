@@ -6,9 +6,9 @@
     "name": "CC BY 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 19 November 2026)",
-  "generatedAt": "2026-11-19T15:39:08.632Z",
-  "lastChecked": "2026-11-19",
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 20 November 2026)",
+  "generatedAt": "2026-11-19T23:38:17.410Z",
+  "lastChecked": "2026-11-20",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
   "facts": [
@@ -371,11 +371,16 @@
           "name": "Polygon: All cheat codes in GTA 6",
           "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
           "tier": "trade"
+        },
+        {
+          "name": "Kotaku: The most helpful GTA 6 cheat codes and how to access them",
+          "url": "https://kotaku.com/the-most-helpful-gta-6-cheat-codes-and-how-to-access-them-2000758546",
+          "tier": "trade"
         }
       ],
-      "checkedAt": "2026-11-19",
+      "checkedAt": "2026-11-20",
       "verifiedByUs": true,
-      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026. Polygon (Giovanni Colantonio, 19 Nov 2026, tested on PS5; opened by us in Chrome 19 Nov) says the same about the story, the phone and saving, and adds that achievements can't be earned while a cheat is on. The codes and unlocks are in src/content/cheats.ts."
+      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026. Polygon (Giovanni Colantonio, 19 Nov 2026, tested on PS5; opened by us in Chrome 19 Nov) says the same about the story, the phone and saving, and adds that achievements can't be earned while a cheat is on. Kotaku (Imran Khan, 19 Nov 2026; read by us 20 Nov) gives the same method with LB/RB on Xbox and says the codes are the same on PS5 and Xbox Series X|S. The codes and unlocks are in src/content/cheats.ts."
     },
     {
       "key": "storyMissionCount",
