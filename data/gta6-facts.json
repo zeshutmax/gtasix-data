@@ -7,7 +7,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
   "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 21 November 2026)",
-  "generatedAt": "2026-11-21T05:41:20.615Z",
+  "generatedAt": "2026-11-21T19:13:39.992Z",
   "lastChecked": "2026-11-21",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
@@ -393,9 +393,9 @@
           "tier": "trade"
         }
       ],
-      "checkedAt": "2026-11-20",
+      "checkedAt": "2026-11-21",
       "verifiedByUs": true,
-      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026. Polygon (Giovanni Colantonio, 19 Nov 2026, tested on PS5; opened by us in Chrome 19 Nov) says the same about the story, the phone and saving, and adds that achievements can't be earned while a cheat is on. Kotaku (Imran Khan, 19 Nov 2026; read by us 20 Nov) gives the same method with LB/RB on Xbox and says the codes are the same on PS5 and Xbox Series X|S. The codes and unlocks are in src/content/cheats.ts."
+      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026. Polygon (Giovanni Colantonio, 19 Nov 2026, tested on PS5; opened by us in Chrome 19 Nov) says the same about the story, the phone and saving, and adds that achievements can't be earned while a cheat is on. Kotaku (Imran Khan, 19 Nov 2026; read by us 20 Nov) gives the same method with LB/RB on Xbox and says the codes are the same on PS5 and Xbox Series X|S. PC Gamer's list, updated 19 Nov 2026 and re-read by us on 21 Nov, now prints 19 codes, the same ones as GameSpot plus Drunk. The codes and unlocks are in src/content/cheats.ts."
     },
     {
       "key": "storyMissionCount",
