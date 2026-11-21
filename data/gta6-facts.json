@@ -6,9 +6,9 @@
     "name": "CC BY 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 20 November 2026)",
-  "generatedAt": "2026-11-20T21:31:56.515Z",
-  "lastChecked": "2026-11-20",
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 21 November 2026)",
+  "generatedAt": "2026-11-21T05:41:20.615Z",
+  "lastChecked": "2026-11-21",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
   "facts": [
@@ -551,6 +551,36 @@
       "checkedAt": "2026-11-20",
       "verifiedByUs": true,
       "note": "Take-Two's press release (Business Wire, 20 Nov 2026): GTA VI sold 32.5 million units pre-release, a record across all platforms. The release gives no cut-off date and does not say whether the units are sold-in or sold-through. Opened by us on 20 Nov 2026 at 20:15 UTC."
+    },
+    {
+      "key": "launchDayPs5UsEngagementPercent",
+      "value": 61,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Push Square: 61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours (21 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-21",
+      "verifiedByUs": true,
+      "note": "Push Square (Sammy Barker, 21 Nov 2026 02:00 UTC), quoting Circana analyst Mat Piscatella's Player Engagement Tracker: of US PlayStation 5 players active on 19 Nov 2026, 61% played GTA VI (56% of global Xbox players), and PS5 GTA VI players averaged 513 minutes (about 8.5 hours) that day, Xbox players 494. A third-party tracker, not a Rockstar or Sony figure. Opened by us on 21 Nov 2026 at 02:15 UTC."
+    },
+    {
+      "key": "launchDayPs5AvgMinutes",
+      "value": 513,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Push Square: 61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours (21 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-21",
+      "verifiedByUs": true,
+      "note": "Push Square (Sammy Barker, 21 Nov 2026 02:00 UTC), quoting Circana analyst Mat Piscatella: PS5 GTA VI players averaged 513 minutes on 19 Nov 2026 (Xbox players 494), per Circana's Player Engagement Tracker. A third-party tracker, not a Rockstar or Sony figure. Opened by us on 21 Nov 2026 at 02:15 UTC."
     },
     {
       "key": "missionList",
