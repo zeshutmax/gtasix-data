@@ -6,9 +6,9 @@
     "name": "CC BY 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 21 November 2026)",
-  "generatedAt": "2026-11-22T05:41:44.150Z",
-  "lastChecked": "2026-11-21",
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 22 November 2026)",
+  "generatedAt": "2026-11-22T19:38:10.536Z",
+  "lastChecked": "2026-11-22",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
   "facts": [
@@ -172,6 +172,21 @@
       "checkedAt": "2026-11-20",
       "verifiedByUs": true,
       "note": "From 20 Nov 2026 the Vintage Vice City Pack (the former pre-order bonus) is sold separately: £4.49 on PlayStation Store UK, release date 20 Nov 2026 00:00 UTC. The Rockstar Store's GTA VI page now links \"Buy Now\" to it for PS5 buyers outside Australia, New Zealand and Japan. Other regions and Xbox not read yet. Opened by us on 20 Nov 2026 at 15:15 UTC."
+    },
+    {
+      "key": "vintagePackPriceUsd",
+      "value": 4.99,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Store US: Grand Theft Auto VI: Vintage Vice City Pack (store search)",
+          "url": "https://store.playstation.com/en-us/search/vintage%20vice%20city%20pack",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-22",
+      "verifiedByUs": true,
+      "note": "The Vintage Vice City Pack (the former pre-order bonus, sold separately since 20 Nov 2026) costs $4.99 on PlayStation Store US, listed as a PS5 item. Xbox not read yet. Opened by us on 22 Nov 2026 at 18:15 UTC."
     },
     {
       "key": "singlePlayer",
@@ -581,6 +596,21 @@
       "checkedAt": "2026-11-21",
       "verifiedByUs": true,
       "note": "Push Square (Sammy Barker, 21 Nov 2026 02:00 UTC), quoting Circana analyst Mat Piscatella: PS5 GTA VI players averaged 513 minutes on 19 Nov 2026 (Xbox players 494), per Circana's Player Engagement Tracker. A third-party tracker, not a Rockstar or Sony figure. Opened by us on 21 Nov 2026 at 02:15 UTC."
+    },
+    {
+      "key": "albumOpeningDaySpotifyStreamsMillions",
+      "value": 29.85,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Push Square: GTA 6 Just Can't Stop Breaking Records It Seems (22 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-22",
+      "verifiedByUs": true,
+      "note": "Push Square (Sammy Barker, 22 Nov 2026), citing a Pop Base post: GTA VI: THE ALBUM, the 34-song official compilation, drew 29.85 million Spotify streams on its opening day, which Push Square calls a new opening-day record for a soundtrack on Spotify. Not a Spotify or Rockstar figure. Opened by us on 22 Nov 2026 at 13:10 UTC."
     },
     {
       "key": "missionList",
