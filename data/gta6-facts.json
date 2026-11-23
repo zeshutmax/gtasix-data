@@ -6,9 +6,9 @@
     "name": "CC BY 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 22 November 2026)",
-  "generatedAt": "2026-11-23T07:42:36.043Z",
-  "lastChecked": "2026-11-22",
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 23 November 2026)",
+  "generatedAt": "2026-11-23T23:34:47.437Z",
+  "lastChecked": "2026-11-23",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
   "facts": [
@@ -171,7 +171,7 @@
       ],
       "checkedAt": "2026-11-20",
       "verifiedByUs": true,
-      "note": "From 20 Nov 2026 the Vintage Vice City Pack (the former pre-order bonus) is sold separately: £4.49 on PlayStation Store UK, release date 20 Nov 2026 00:00 UTC. The Rockstar Store's GTA VI page now links \"Buy Now\" to it for PS5 buyers outside Australia, New Zealand and Japan. Other regions and Xbox not read yet. Opened by us on 20 Nov 2026 at 15:15 UTC."
+      "note": "From 20 Nov 2026 the Vintage Vice City Pack (the former pre-order bonus) is sold separately: £4.49 on PlayStation Store UK, release date 20 Nov 2026 00:00 UTC. The Rockstar Store's GTA VI page now links \"Buy Now\" to it for PS5 buyers outside Australia, New Zealand and Japan. Other regions not read yet; Xbox: see vintagePackXboxPriceGbp. Opened by us on 20 Nov 2026 at 15:15 UTC."
     },
     {
       "key": "vintagePackPriceUsd",
@@ -186,7 +186,42 @@
       ],
       "checkedAt": "2026-11-22",
       "verifiedByUs": true,
-      "note": "The Vintage Vice City Pack (the former pre-order bonus, sold separately since 20 Nov 2026) costs $4.99 on PlayStation Store US, listed as a PS5 item. Xbox not read yet. Opened by us on 22 Nov 2026 at 18:15 UTC."
+      "note": "The Vintage Vice City Pack (the former pre-order bonus, sold separately since 20 Nov 2026) costs $4.99 on PlayStation Store US, listed as a PS5 item. Xbox: see vintagePackXboxPriceUsd. Opened by us on 22 Nov 2026 at 18:15 UTC."
+    },
+    {
+      "key": "vintagePackXboxPriceUsd",
+      "value": 4.99,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Pure Xbox: GTA 6 Vintage Vice City Pack now available to all players on Xbox (23 Nov 2026)",
+          "url": "https://www.purexbox.com/news/2026/11/gta-6-vintage-vice-city-pack-now-available-to-all-players-on-xbox-and-its-pretty-cheap",
+          "tier": "trade"
+        },
+        {
+          "name": "Polygon: GTA 6 Vice City pre-order DLC now available for all (23 Nov 2026)",
+          "url": "https://www.polygon.com/gta-6-vice-city-pre-order-dlc-availble-to-purchase/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "verifiedByUs": true,
+      "note": "The Vintage Vice City Pack costs $4.99 on the Xbox Store, the same as on PlayStation, and its items unlock as the story progresses (Pure Xbox and Polygon, both 23 Nov 2026). We did not find the pack in Xbox.com's US search results. Both articles opened by us on 23 Nov 2026 at 19:08 UTC."
+    },
+    {
+      "key": "vintagePackXboxPriceGbp",
+      "value": 4.49,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Pure Xbox: GTA 6 Vintage Vice City Pack now available to all players on Xbox (23 Nov 2026)",
+          "url": "https://www.purexbox.com/news/2026/11/gta-6-vintage-vice-city-pack-now-available-to-all-players-on-xbox-and-its-pretty-cheap",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "verifiedByUs": true,
+      "note": "The Vintage Vice City Pack costs £4.49 on the Xbox Store in the UK, the same as on PlayStation (Pure Xbox, Fraser Gilbert, 23 Nov 2026). Opened by us on 23 Nov 2026 at 19:08 UTC."
     },
     {
       "key": "singlePlayer",
@@ -406,11 +441,16 @@
           "name": "Kotaku: The most helpful GTA 6 cheat codes and how to access them",
           "url": "https://kotaku.com/the-most-helpful-gta-6-cheat-codes-and-how-to-access-them-2000758546",
           "tier": "trade"
+        },
+        {
+          "name": "Eurogamer.de: GTA 6 Cheats: Alle 61 Codes für Geld, Waffen, Fahrzeuge und wie ihr sie freischaltet (updated 23 Nov 2026)",
+          "url": "https://www.eurogamer.de/gta-6-cheats-codes-freischalten-liste",
+          "tier": "trade"
         }
       ],
-      "checkedAt": "2026-11-21",
+      "checkedAt": "2026-11-23",
       "verifiedByUs": true,
-      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026. Polygon (Giovanni Colantonio, 19 Nov 2026, tested on PS5; opened by us in Chrome 19 Nov) says the same about the story, the phone and saving, and adds that achievements can't be earned while a cheat is on. Kotaku (Imran Khan, 19 Nov 2026; read by us 20 Nov) gives the same method with LB/RB on Xbox and says the codes are the same on PS5 and Xbox Series X|S. PC Gamer's list, updated 19 Nov 2026 and re-read by us on 21 Nov, now prints 19 codes, the same ones as GameSpot plus Drunk. The codes and unlocks are in src/content/cheats.ts."
+      "note": "PC Gamer and GameSpot (18 Nov 2026, both tested in the game): cheats work only after the main story is finished, each one also needs its own challenge, they are entered on the phone with L1 + R1 and D-pad directions, and using one stops the game from saving. Rockstar has published nothing about cheats. Both articles opened by us in Chrome on 18 Nov 2026. Polygon (Giovanni Colantonio, 19 Nov 2026, tested on PS5; opened by us in Chrome 19 Nov) says the same about the story, the phone and saving, and adds that achievements can't be earned while a cheat is on. Kotaku (Imran Khan, 19 Nov 2026; read by us 20 Nov) gives the same method with LB/RB on Xbox and says the codes are the same on PS5 and Xbox Series X|S. PC Gamer's list, updated 19 Nov 2026 and re-read by us on 21 Nov, now prints 19 codes, the same ones as GameSpot plus Drunk. Eurogamer.de (published 18 Nov, updated 23 Nov 2026 10:56 UTC; read by us 23 Nov 12:20 UTC) is the first to print all 61 codes with their unlocks; its codes match all 19 the English outlets print. It also says there is no god mode, flying or lose-wanted cheat, slow input works, and releasing L1 + R1 confirms the code with a chime. The codes and unlocks are in src/content/cheats.ts."
     },
     {
       "key": "storyMissionCount",
@@ -566,6 +606,51 @@
       "checkedAt": "2026-11-20",
       "verifiedByUs": true,
       "note": "Take-Two's press release (Business Wire, 20 Nov 2026): GTA VI sold 32.5 million units pre-release, a record across all platforms. The release gives no cut-off date and does not say whether the units are sold-in or sold-through. Opened by us on 20 Nov 2026 at 20:15 UTC."
+    },
+    {
+      "key": "fourDayUnitsMillions",
+      "value": 44.9,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GameSpot: GTA 6 is approaching an absurd new sales milestone, report says (23 Nov 2026)",
+          "url": "https://www.gamespot.com/articles/gta-6-is-approaching-an-absurd-new-sales-milestone-report-says/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "verifiedByUs": true,
+      "note": "GameSpot (Eddie Makuch, 23 Nov 2026 13:47 UTC), citing Rhys Elliott of Alinea Analytics: 44.9 million copies sold through the first weekend (to 22 Nov 2026), 33.7 million on PS5 and 11.2 million on Xbox Series X|S, a split of 75.1% to 24.9%. An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 23 Nov 2026 at 22:09 UTC."
+    },
+    {
+      "key": "fourDayRevenueUsdBillions",
+      "value": 4,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GameSpot: GTA 6 is approaching an absurd new sales milestone, report says (23 Nov 2026)",
+          "url": "https://www.gamespot.com/articles/gta-6-is-approaching-an-absurd-new-sales-milestone-report-says/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "verifiedByUs": true,
+      "note": "GameSpot (Eddie Makuch, 23 Nov 2026 13:47 UTC), citing Rhys Elliott of Alinea Analytics: $4 billion in sales through the first four days (19 to 22 Nov 2026), before the platforms' 30% fee on digital copies. Take-Two's own figure covers day one only (dayOneRetailSalesUsdBillions). An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 23 Nov 2026 at 22:09 UTC."
+    },
+    {
+      "key": "firstSundayPlayersMillions",
+      "value": 40.8,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GameSpot: GTA 6 is approaching an absurd new sales milestone, report says (23 Nov 2026)",
+          "url": "https://www.gamespot.com/articles/gta-6-is-approaching-an-absurd-new-sales-milestone-report-says/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "verifiedByUs": true,
+      "note": "GameSpot (Eddie Makuch, 23 Nov 2026 13:47 UTC), citing Rhys Elliott of Alinea Analytics: around 40.8 million people logged in to play GTA 6 on Sunday 22 Nov 2026, 76% of them on PS5; about 20% of players, roughly 9 million people, have played more than 20 hours. An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 23 Nov 2026 at 22:09 UTC."
     },
     {
       "key": "launchDayPs5UsEngagementPercent",
@@ -923,6 +1008,64 @@
       "checkedAt": "2026-11-18",
       "verifiedByUs": true,
       "note": "Insider Gaming (sources, not Rockstar): reviews go live at 00:00 New Zealand time on 19 Nov, which is 03:00 PT / 06:00 ET / 11:00 GMT on 18 Nov. VICE: Rockstar has not confirmed a review embargo date. Confirmed in practice on 18 Nov: GamesRadar+, The Guardian and Digital Spy published their reviews at 11:00 UTC."
+    },
+    {
+      "key": "titleUpdate01002002SizeMb",
+      "value": 603,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Eurogamer.de: GTA 6: Neues Update 01.002.002 rollt heute in mehreren Phasen aus (23 Nov 2026)",
+          "url": "https://www.eurogamer.de/gta-6-update-01002002-release",
+          "tier": "trade"
+        },
+        {
+          "name": "Push Square: First GTA 6 PS5 Patch Live Now, Get All the Details Here (23 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "verifiedByUs": true,
+      "note": "Download size of GTA VI title update 01.002.002 on PS5, the first update after launch, rolled out on 23 Nov 2026 in phases (33% of players at once, 66% after 3 hours, everyone after 6 hours). Eurogamer.de (Benjamin Jakobs, 23 Nov 2026 11:51 UTC), quoting the X account PlayStation Game Size; Push Square (Liam Croft, 23 Nov 2026) gives 603.8 MB. Rockstar's patch notes don't give a size. Opened by us on 23 Nov 2026 at 12:10 and 13:15 UTC."
+    },
+    {
+      "key": "titleUpdate01002002XboxSizeGb",
+      "value": 1.6,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Push Square: First GTA 6 PS5 Patch Live Now, Get All the Details Here (23 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "verifiedByUs": true,
+      "note": "Download size of GTA VI title update 01.002.002 on Xbox Series X|S, the first update after launch (23 Nov 2026). Push Square (Liam Croft, 23 Nov 2026): \"a small 603.8MB patch on PS5, and a 1.6GB download on Xbox Series X|S\"; it does not name where the sizes come from. Rockstar's patch notes don't give a size. Opened by us on 23 Nov 2026 at 13:15 UTC."
+    },
+    {
+      "key": "titleUpdate01002002Notes",
+      "value": [
+        "Several crash fixes",
+        "Weather staying the same for long stretches",
+        "Autosaves not working correctly",
+        "Phone calls not triggering, including ones that move the story on or unlock missions",
+        "Wanted Level that couldn't be lost",
+        "Gym deadlift bar that couldn't be used",
+        "Partners not handing over bags to sell to fences"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "Rockstar Support: Grand Theft Auto VI Launch Updates (PS5 / Xbox Series X|S) (updated 23 Nov 2026)",
+          "url": "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "verifiedByUs": true,
+      "note": "What the 23 Nov 2026 GTA VI update fixes on PS5 and Xbox Series X|S, the first update after launch, in our words from Rockstar Support's launch updates page. Rockstar dates the notes without a version number; outlets match them to 01.002.002. Opened by us on 23 Nov 2026 at 16:10 UTC."
     }
   ],
   "editions": [
