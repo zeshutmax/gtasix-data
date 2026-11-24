@@ -6,9 +6,9 @@
     "name": "CC BY 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 23 November 2026)",
-  "generatedAt": "2026-11-23T23:34:47.437Z",
-  "lastChecked": "2026-11-23",
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 24 November 2026)",
+  "generatedAt": "2026-11-24T09:41:14.167Z",
+  "lastChecked": "2026-11-24",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
   "facts": [
@@ -653,6 +653,66 @@
       "note": "GameSpot (Eddie Makuch, 23 Nov 2026 13:47 UTC), citing Rhys Elliott of Alinea Analytics: around 40.8 million people logged in to play GTA 6 on Sunday 22 Nov 2026, 76% of them on PS5; about 20% of players, roughly 9 million people, have played more than 20 hours. An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 23 Nov 2026 at 22:09 UTC."
     },
     {
+      "key": "ps5LaunchPlayersMillions",
+      "value": 39,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Blog: Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history (23 Nov 2026)",
+          "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "PlayStation Blog (Tim Turi, 23 Nov 2026): more than 39 million unique players have played GTA VI on PS5, the biggest game launch in PlayStation history, with a record number of concurrent players for any game on PlayStation (Sony gives no concurrent figure). Players, not copies sold. Sony's internal data from 19 to 22 Nov 2026. Opened by us on 24 Nov 2026 at 00:07 UTC."
+    },
+    {
+      "key": "ps5LaunchHoursMillions",
+      "value": 683,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Blog: Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history (23 Nov 2026)",
+          "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "PlayStation Blog (Tim Turi, 23 Nov 2026): PS5 players logged 683 million hours in GTA VI in total. Sony's internal data from 19 to 22 Nov 2026. Opened by us on 24 Nov 2026 at 00:07 UTC."
+    },
+    {
+      "key": "ps5LaunchAvgHours",
+      "value": 17.4,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Blog: Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history (23 Nov 2026)",
+          "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "PlayStation Blog (Tim Turi, 23 Nov 2026): each PS5 player spent an average of 17.4 hours in GTA VI. Sony's internal data from 19 to 22 Nov 2026. Opened by us on 24 Nov 2026 at 00:07 UTC."
+    },
+    {
+      "key": "ps5NewConsolesFirstGamePercent",
+      "value": 70,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Blog: Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history (23 Nov 2026)",
+          "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "PlayStation Blog (Tim Turi, 23 Nov 2026): since its launch, GTA VI was the first game played on 70% of new PS5 consoles; Sony also saw its largest single-day number of newly connected PS5s since the console's launch, year-end holidays aside. Sony's internal data from 19 to 22 Nov 2026. Opened by us on 24 Nov 2026 at 00:07 UTC."
+    },
+    {
       "key": "launchDayPs5UsEngagementPercent",
       "value": 61,
       "status": "reported",
@@ -681,6 +741,66 @@
       "checkedAt": "2026-11-21",
       "verifiedByUs": true,
       "note": "Push Square (Sammy Barker, 21 Nov 2026 02:00 UTC), quoting Circana analyst Mat Piscatella: PS5 GTA VI players averaged 513 minutes on 19 Nov 2026 (Xbox players 494), per Circana's Player Engagement Tracker. A third-party tracker, not a Rockstar or Sony figure. Opened by us on 21 Nov 2026 at 02:15 UTC."
+    },
+    {
+      "key": "launchDayComcastTrafficRisePercent",
+      "value": 31,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "PC Gamer: Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic' (21 Nov 2026)",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "PC Gamer (21 Nov 2026 21:42 UTC), quoting Comcast's post on X: GTA VI's launch on 19 Nov 2026 drove the biggest internet traffic day in Comcast's network history, with traffic 31% above an average day; at peak, GTA VI was nearly a quarter of all network traffic. PC Gamer reads this as Comcast's own US network, not the whole internet. Opened by us on 24 Nov 2026 at 02:15 UTC."
+    },
+    {
+      "key": "callOfDutyDailyPlayersDropPercent",
+      "value": 42,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "IGN: Call of Duty's player count dropped by over 40% following GTA 6's release, according to analysts (23 Nov 2026)",
+          "url": "https://www.ign.com/articles/call-of-dutys-player-count-dropped-by-over-40-following-gta-6s-release-according-to-analysts",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "IGN (Cade Onder, 23 Nov 2026 23:37 UTC), citing Alinea Analytics: daily users of the Call of Duty app (Warzone, Black Ops 7 and Modern Warfare 4) fell 42% across platforms after GTA VI's launch, from 7.6 million to 4.4 million; PS5 fell most, 44%. An unofficial third-party estimate, not an Activision or Rockstar figure. Opened by us on 24 Nov 2026 at 06:10 UTC."
+    },
+    {
+      "key": "xboxSeriesXInputLag30FpsMs",
+      "value": 170,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Digital Foundry: GTA 6's unlocked frame-rate glitch tested (23 Nov 2026)",
+          "url": "https://www.digitalfoundry.net/features/gta-6s-unlocked-frame-rate-glitch-tested-is-there-a-case-for-40fps",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Digital Foundry (William Judd, 23 Nov 2026 18:00 UTC): in one test on Xbox Series X with VRR on, input lag was around 170 ms at 30 FPS. Opened by us on 24 Nov 2026 at 07:15 UTC."
+    },
+    {
+      "key": "xboxSeriesXInputLagGlitchMs",
+      "value": 120,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Digital Foundry: GTA 6's unlocked frame-rate glitch tested (23 Nov 2026)",
+          "url": "https://www.digitalfoundry.net/features/gta-6s-unlocked-frame-rate-glitch-tested-is-there-a-case-for-40fps",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Digital Foundry (William Judd, 23 Nov 2026 18:00 UTC): in one test on Xbox Series X with VRR on, input lag was around 120 ms in a scene running near 40 FPS through the Quick Resume glitch. Opened by us on 24 Nov 2026 at 07:15 UTC."
     },
     {
       "key": "albumOpeningDaySpotifyStreamsMillions",
@@ -789,6 +909,36 @@
       "checkedAt": "2026-11-18",
       "verifiedByUs": true,
       "note": "Rockstar Support (updated 18 Nov 2026): GTA VI will be available via Xbox Cloud Gaming on Xbox Series X|S and Xbox One consoles, using Xbox Series S graphics settings, and fully supports Remote Play on PlayStation and Xbox consoles."
+    },
+    {
+      "key": "psCloudStreaming",
+      "value": true,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "PlayStation Store Japan: Grand Theft Auto VI",
+          "url": "https://www.playstation.com/ja-jp/games/grand-theft-auto-vi/",
+          "tier": "primary"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "The Japanese PlayStation Store listing says GTA VI supports cloud streaming on PS5 and PS Portal with a PlayStation Plus Premium subscription only. At 00:08 UTC on 24 Nov 2026 the other eight store listings we check (US, Canada, Brazil, UK, Germany, Poland, New Zealand, Australia) did not show the line. Opened by us on 24 Nov 2026 at 00:08 UTC."
+    },
+    {
+      "key": "psCloudStreamingUk",
+      "value": true,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Push Square: GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium (24 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": false,
+      "note": "Push Square (24 Nov 2026, 01:00 UTC) says GTA VI now streams from Sony's servers to PS5 and PS Portal for PlayStation Plus Premium members who own the game (it is not in the Premium catalogue), and that its writer tested it on a PS5 in the UK. The UK store's game page didn't show the streaming flag when we fetched it at 03:08 UTC on 24 Nov 2026."
     },
     {
       "key": "targetFps",
