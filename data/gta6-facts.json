@@ -7,7 +7,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
   "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 24 November 2026)",
-  "generatedAt": "2026-11-24T09:41:14.167Z",
+  "generatedAt": "2026-11-24T22:15:07.555Z",
   "lastChecked": "2026-11-24",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
@@ -766,11 +766,126 @@
           "name": "IGN: Call of Duty's player count dropped by over 40% following GTA 6's release, according to analysts (23 Nov 2026)",
           "url": "https://www.ign.com/articles/call-of-dutys-player-count-dropped-by-over-40-following-gta-6s-release-according-to-analysts",
           "tier": "trade"
+        },
+        {
+          "name": "Eurogamer: GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates (24 Nov 2026)",
+          "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+          "tier": "trade"
         }
       ],
       "checkedAt": "2026-11-24",
       "verifiedByUs": true,
-      "note": "IGN (Cade Onder, 23 Nov 2026 23:37 UTC), citing Alinea Analytics: daily users of the Call of Duty app (Warzone, Black Ops 7 and Modern Warfare 4) fell 42% across platforms after GTA VI's launch, from 7.6 million to 4.4 million; PS5 fell most, 44%. An unofficial third-party estimate, not an Activision or Rockstar figure. Opened by us on 24 Nov 2026 at 06:10 UTC."
+      "note": "IGN (Cade Onder, 23 Nov 2026 23:37 UTC), citing Alinea Analytics: daily users of the Call of Duty app (Warzone, Black Ops 7 and Modern Warfare 4) fell 42% across platforms after GTA VI's launch, from 7.6 million to 4.4 million; PS5 fell most, 44%. An unofficial third-party estimate, not an Activision or Rockstar figure. Opened by us on 24 Nov 2026 at 06:10 UTC. Eurogamer (24 Nov 2026 17:59 UTC, opened 18:07) gives the same 42% from an average of 7.5 million on PlayStation, Xbox and Steam, and says it was still 41% down after four days."
+    },
+    {
+      "key": "fortniteDailyPlayersDropPercent",
+      "value": 28,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Eurogamer: GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates (24 Nov 2026)",
+          "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Eurogamer (Vikki Blake, 24 Nov 2026 17:59 UTC), citing Alinea Analytics: Fortnite's daily users on PlayStation and Xbox fell 28% when GTA VI launched on 19 Nov 2026, from 17.8 million to 12.8 million, and were 19% below the baseline by the end of the weekend. An unofficial third-party estimate, not a publisher figure. Opened by us on 24 Nov 2026 at 18:07 UTC."
+    },
+    {
+      "key": "fc27DailyPlayersDropPercent",
+      "value": 27,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Eurogamer: GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates (24 Nov 2026)",
+          "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Eurogamer (Vikki Blake, 24 Nov 2026 17:59 UTC), citing Alinea Analytics: EA Sports FC 27's daily users fell around 27% when GTA VI launched on 19 Nov 2026, from 5.9 million to 4.3 million, and were back within 20% of the baseline. An unofficial third-party estimate, not a publisher figure. Opened by us on 24 Nov 2026 at 18:07 UTC."
+    },
+    {
+      "key": "streamViewers20To24Percent",
+      "value": 30.8,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "IGN: over half of GTA 6 watch time came from viewers under 25 (24 Nov 2026)",
+          "url": "https://www.ign.com/articles/over-half-of-gta-6-watch-time-came-from-viewers-under-25-years-old",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "IGN (Virginia Glaze, 24 Nov 2026 19:51 UTC), citing Streams Charts: 30.8% of viewers of GTA VI streams on Twitch, Kick and YouTube are 20 to 24, the largest age group; 16.8% are 17 to 19 and 8.5% are 16 or under, so over half are under 25. An unofficial third-party estimate of stream viewers, not of players. Opened by us on 24 Nov 2026 at 20:08 UTC."
+    },
+    {
+      "key": "leonidaTakedownRepositories",
+      "value": 3007,
+      "status": "confirmed",
+      "sources": [
+        {
+          "name": "GitHub DMCA archive: Take-Two's notice on Project Leonida (24 Nov 2026)",
+          "url": "https://github.com/github/dmca/blob/master/2026/11/2026-11-24-take-two.md",
+          "tier": "primary"
+        },
+        {
+          "name": "The Verge: GTA VI PC recompilation project shut down by Take-Two (24 Nov 2026)",
+          "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "GitHub's published copy of Take-Two's DMCA notice of 24 Nov 2026: GitHub processed it against the whole Project Leonida network of 3,007 repositories; Take-Two's own text says the main repository and 2,900+ forks. The Verge (Tom Warren, 24 Nov 2026 21:39 UTC) reports the same takedown and its 2,900 forks. Leonida was a fan attempt to run a leaked Xbox build on PC, not a PC version. Opened by us on 24 Nov 2026 at 22:10 UTC."
+    },
+    {
+      "key": "ps5PlayersClearedChapter1Percent",
+      "value": 66.22,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Polygon: only 40% of GTA 6 players have cleared Chapter 2 (24 Nov 2026)",
+          "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Polygon (24 Nov 2026 19:08 UTC), citing PSNProfiles: 66.22% of GTA VI players on PS5 have the trophy for finishing Chapter 1 (56% on Xbox, citing TrueAchievements). Third-party tracker figures that rise over time, not Sony's or Rockstar's. Opened by us on 24 Nov 2026 at 21:08 UTC."
+    },
+    {
+      "key": "ps5PlayersClearedChapter2Percent",
+      "value": 40.55,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Polygon: only 40% of GTA 6 players have cleared Chapter 2 (24 Nov 2026)",
+          "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Polygon (24 Nov 2026 19:08 UTC), citing PSNProfiles: 40.55% of GTA VI players on PS5 have cleared Chapter 2 (31% on Xbox); 6.45% have cleared Chapter 3 and 1.26% Chapter 4. Third-party tracker figures that rise over time, not Sony's or Rockstar's. Opened by us on 24 Nov 2026 at 21:08 UTC."
+    },
+    {
+      "key": "ps5PlayersFinishedStoryPercent",
+      "value": 0.88,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Polygon: only 40% of GTA 6 players have cleared Chapter 2 (24 Nov 2026)",
+          "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Polygon (24 Nov 2026 19:08 UTC), citing PSNProfiles: 0.88% of GTA VI players on PS5 have cleared the final mission (under 1% on Xbox). Third-party tracker figures that rise over time, not Sony's or Rockstar's. Opened by us on 24 Nov 2026 at 21:08 UTC."
     },
     {
       "key": "xboxSeriesXInputLag30FpsMs",
@@ -801,6 +916,36 @@
       "checkedAt": "2026-11-24",
       "verifiedByUs": true,
       "note": "Digital Foundry (William Judd, 23 Nov 2026 18:00 UTC): in one test on Xbox Series X with VRR on, input lag was around 120 ms in a scene running near 40 FPS through the Quick Resume glitch. Opened by us on 24 Nov 2026 at 07:15 UTC."
+    },
+    {
+      "key": "internalResolutionBaseConsoles",
+      "value": "1440p",
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Digital Foundry: The big GTA 6 console comparison, PS5 vs PS5 Pro, Xbox Series X and Series S (24 Nov 2026)",
+          "url": "https://www.digitalfoundry.net/features/the-big-gta-6-console-comparison-ps5-vs-ps5-pro-xbox-series-x-and-series-s",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Digital Foundry (24 Nov 2026 15:01 UTC): the standard PS5 and Xbox Series X both render GTA VI at an internal 1440p; on PS5 it is upscaled to 4K with TAA. An outlet's measurement, not a Rockstar, Sony or Microsoft figure. Opened by us on 24 Nov 2026 at 17:20 UTC."
+    },
+    {
+      "key": "internalResolutionSeriesS",
+      "value": "720p",
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Digital Foundry: The big GTA 6 console comparison, PS5 vs PS5 Pro, Xbox Series X and Series S (24 Nov 2026)",
+          "url": "https://www.digitalfoundry.net/features/the-big-gta-6-console-comparison-ps5-vs-ps5-pro-xbox-series-x-and-series-s",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "verifiedByUs": true,
+      "note": "Digital Foundry (24 Nov 2026 15:01 UTC): Xbox Series S renders GTA VI at an internal 720p, upscaled to 1080p with FSR 4.1. An outlet's measurement, not a Rockstar or Microsoft figure. Opened by us on 24 Nov 2026 at 17:35 UTC."
     },
     {
       "key": "albumOpeningDaySpotifyStreamsMillions",
