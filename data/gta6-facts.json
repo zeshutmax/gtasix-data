@@ -7,7 +7,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
   "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 25 November 2026)",
-  "generatedAt": "2026-11-25T08:15:37.122Z",
+  "generatedAt": "2026-11-25T21:41:57.590Z",
   "lastChecked": "2026-11-25",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
@@ -638,6 +638,21 @@
       "note": "Forbes (Conor Murray, republished by Forbes Middle East on 25 Nov 2026), citing data Sensor Tower shared with it: 47.8 million copies sold by Sunday 22 Nov 2026, the end of the launch weekend. Alinea Analytics estimates 44.9 million to the same day (fourDayUnitsMillions). An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 25 Nov 2026 at 06:09 UTC."
     },
     {
+      "key": "indiaPs5UnitsThreeDays",
+      "value": 238000,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "IGN India: GTA 6 sold more than 2 lakh copies in India on PS5 during launch weekend (25 Nov 2026)",
+          "url": "https://in.ign.com/grand-theft-auto-vi/277883/gta-6-sold-more-than-2-lakh-copies-in-india-on-ps5-during-launch-weekend-report",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "verifiedByUs": true,
+      "note": "IGN India (25 Nov 2026), citing XpertPick's report of Sensor Tower's estimate: 238,000 copies (2.38 lakh) sold on PlayStation in India between 19 and 21 Nov 2026, physical and digital together. No Xbox figure and no physical/digital split. An unofficial third-party estimate, not a Take-Two or Sony figure. Opened by us on 25 Nov 2026 at 10:08 UTC."
+    },
+    {
       "key": "fourDayRevenueUsdBillions",
       "value": 4,
       "status": "reported",
@@ -808,6 +823,21 @@
       "note": "Eurogamer (Vikki Blake, 24 Nov 2026 17:59 UTC), citing Alinea Analytics: Fortnite's daily users on PlayStation and Xbox fell 28% when GTA VI launched on 19 Nov 2026, from 17.8 million to 12.8 million, and were 19% below the baseline by the end of the weekend. An unofficial third-party estimate, not a publisher figure. Opened by us on 24 Nov 2026 at 18:07 UTC."
     },
     {
+      "key": "enterableBuildings",
+      "value": 1563,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Eurogamer: Players discover over 1,500 buildings you can enter in GTA 6 (25 Nov 2026)",
+          "url": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "verifiedByUs": true,
+      "note": "Eurogamer (25 Nov 2026 12:42 UTC), citing a count posted on Reddit by the player Aileos: 1,563 of GTA VI's 5,588 buildings can be entered, 27.97%. One player's count, not a Rockstar figure. Opened by us on 25 Nov 2026 at 13:10 UTC."
+    },
+    {
       "key": "fc27DailyPlayersDropPercent",
       "value": 27,
       "status": "reported",
@@ -821,6 +851,51 @@
       "checkedAt": "2026-11-24",
       "verifiedByUs": true,
       "note": "Eurogamer (Vikki Blake, 24 Nov 2026 17:59 UTC), citing Alinea Analytics: EA Sports FC 27's daily users fell around 27% when GTA VI launched on 19 Nov 2026, from 5.9 million to 4.3 million, and were back within 20% of the baseline. An unofficial third-party estimate, not a publisher figure. Opened by us on 24 Nov 2026 at 18:07 UTC."
+    },
+    {
+      "key": "usPs5UnitSalesMultiple",
+      "value": 2.4,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Push Square: GTA 6 causes PS5 consoles to sell out in US before Black Friday (25 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "verifiedByUs": true,
+      "note": "Push Square (Sammy Barker, 25 Nov 2026 14:15 UTC), quoting Circana analyst Mat Piscatella's post (Circana Retail Tracking Service): in the week ending 7 Nov 2026, before GTA VI's release, US PS5 unit sales were more than 2.4 times the same week a year before. A third-party tracker, not a Rockstar or platform figure. Push Square's own sentence says the week ending 14 Nov; the post it quotes says 7 Nov. Opened by us on 25 Nov 2026 at 15:10 UTC."
+    },
+    {
+      "key": "usXboxSeriesUnitSalesMultiple",
+      "value": 2.3,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Push Square: GTA 6 causes PS5 consoles to sell out in US before Black Friday (25 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "verifiedByUs": true,
+      "note": "Push Square (Sammy Barker, 25 Nov 2026 14:15 UTC), quoting Circana analyst Mat Piscatella's post (Circana Retail Tracking Service): in the week ending 7 Nov 2026, before GTA VI's release, US Xbox Series unit sales were more than 2.3 times the same week a year before. A third-party tracker, not a Rockstar or platform figure. Push Square's own sentence says the week ending 14 Nov; the post it quotes says 7 Nov. Opened by us on 25 Nov 2026 at 15:10 UTC."
+    },
+    {
+      "key": "youtubeReleaseDayViewsBillions",
+      "value": 3.5,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "YouTube Blog: Grand Theft Auto VI content reaches 3.5B views on YouTube on the first day of its launch (24 Nov 2026)",
+          "url": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "verifiedByUs": true,
+      "note": "YouTube's official blog (The YouTube Team, 24 Nov 2026): over 3.5 billion global views, on 19 Nov 2026, of videos with GTAVI in the title. It adds over 40 billion views of GTA VI videos before launch and over 900 billion for the Grand Theft Auto series to date. Views of YouTube videos, not players; YouTube's own count, not a Rockstar figure. Opened by us on 25 Nov 2026 at 14:20 UTC."
     },
     {
       "key": "streamViewers20To24Percent",
