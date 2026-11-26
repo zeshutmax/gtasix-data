@@ -6,9 +6,9 @@
     "name": "CC BY 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 25 November 2026)",
-  "generatedAt": "2026-11-26T08:08:24.200Z",
-  "lastChecked": "2026-11-25",
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 26 November 2026)",
+  "generatedAt": "2026-11-26T21:12:32.293Z",
+  "lastChecked": "2026-11-26",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
   "facts": [
@@ -883,6 +883,86 @@
       "note": "Push Square (Sammy Barker, 25 Nov 2026 14:15 UTC), quoting Circana analyst Mat Piscatella's post (Circana Retail Tracking Service): in the week ending 7 Nov 2026, before GTA VI's release, US Xbox Series unit sales were more than 2.3 times the same week a year before. A third-party tracker, not a Rockstar or platform figure. Push Square's own sentence says the week ending 14 Nov; the post it quotes says 7 Nov. Opened by us on 25 Nov 2026 at 15:10 UTC."
     },
     {
+      "key": "ukPhysicalThreeDayGbpMillions",
+      "value": 32,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "VGC: Despite being a code in a box, GTA 6’s physical release broke sales records (26 Nov 2026)",
+          "url": "https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/",
+          "tier": "trade"
+        },
+        {
+          "name": "Eurogamer: GTA 6 causes surge in UK physical game sales, despite there being no disc in the box (26 Nov 2026)",
+          "url": "https://www.eurogamer.net/gta-6-boxed-physical-sales-uk",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "verifiedByUs": true,
+      "note": "VGC (Rhiannon Bevan, 26 Nov 2026), citing The Game Business: GTA 6 earned £32 million from physical copies (code-in-box) in the UK in its first three days, the biggest physical game launch in the UK since 2019 and the 17th biggest since records began in 1995. Eurogamer (26 Nov 2026), citing NielsenIQ, gives the same £32m for the launch period ending 21 Nov, 88% of it on day one. A third-party figure, not a Take-Two or Rockstar one. Opened by us on 26 Nov 2026 at 15:10 UTC (Eurogamer 18:15 UTC)."
+    },
+    {
+      "key": "ukBoxedSoftwareLaunchWeekRisePercent",
+      "value": 409,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Eurogamer: GTA 6 causes surge in UK physical game sales, despite there being no disc in the box (26 Nov 2026)",
+          "url": "https://www.eurogamer.net/gta-6-boxed-physical-sales-uk",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "verifiedByUs": true,
+      "note": "Eurogamer (26 Nov 2026 17:30 UTC), citing NielsenIQ: UK boxed software sales rose 409% in the launch period ending 21 Nov 2026 against the week before, the biggest week for UK physical game sales since Christmas 2018; GTA 6 made £32m of the £43m total (about 74%), 88% of its boxed sales on day one. A third-party tracker, not a Take-Two or Rockstar figure. Opened by us on 26 Nov 2026 at 18:15 UTC."
+    },
+    {
+      "key": "ukConsoleHardwareLaunchWeekRisePercent",
+      "value": 38,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Eurogamer: GTA 6 causes surge in UK physical game sales, despite there being no disc in the box (26 Nov 2026)",
+          "url": "https://www.eurogamer.net/gta-6-boxed-physical-sales-uk",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "verifiedByUs": true,
+      "note": "Eurogamer (26 Nov 2026 17:30 UTC), citing NielsenIQ: UK console hardware sales rose 38% in the launch period ending 21 Nov 2026 against the week before, to their highest level since 2025; PS5 sales rose 46% and Xbox Series sales 75%, and PS5 controller sales 355%. A third-party tracker, not a Take-Two, Sony or Microsoft figure. Opened by us on 26 Nov 2026 at 18:15 UTC."
+    },
+    {
+      "key": "francePhysicalThreeDayUnitsMillions",
+      "value": 1,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "VGC: Despite being a code in a box, GTA 6’s physical release broke sales records (26 Nov 2026)",
+          "url": "https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "verifiedByUs": true,
+      "note": "VGC (Rhiannon Bevan, 26 Nov 2026), citing The Game Business: one million physical copies (code-in-box) of GTA 6 sold in France in three days; VGC also reports it as the most successful physical release in Spain's history (no figure). A third-party figure, not a Take-Two or Rockstar one. Opened by us on 26 Nov 2026 at 15:10 UTC."
+    },
+    {
+      "key": "japanPhysicalFirstWeekUnits",
+      "value": 200759,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Push Square: GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan (26 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "verifiedByUs": true,
+      "note": "Push Square (Sammy Barker, 26 Nov 2026), citing Famitsu: GTA 6 sold 200,759 physical (code-in-box) PS5 copies at Japanese retail in the week ending 22 Nov 2026, the top-selling game that week, against GTA 5's 304,752 at its 2013 opening; the same week the PS5 (41,472) outsold the Switch 2 (36,817) in Japan. Retail copies only, no digital sales; a third-party tracker, not a Take-Two or Rockstar figure. Opened by us on 26 Nov 2026 at 17:15 UTC."
+    },
+    {
       "key": "youtubeReleaseDayViewsBillions",
       "value": 3.5,
       "status": "reported",
@@ -896,6 +976,21 @@
       "checkedAt": "2026-11-25",
       "verifiedByUs": true,
       "note": "YouTube's official blog (The YouTube Team, 24 Nov 2026): over 3.5 billion global views, on 19 Nov 2026, of videos with GTAVI in the title. It adds over 40 billion views of GTA VI videos before launch and over 900 billion for the Grand Theft Auto series to date. Views of YouTube videos, not players; YouTube's own count, not a Rockstar figure. Opened by us on 25 Nov 2026 at 14:20 UTC."
+    },
+    {
+      "key": "streamHoursWatchedFirstWeekMillions",
+      "value": 420,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "Eurogamer: GTA 6 reportedly sets massive livestreaming record in its first week (26 Nov 2026)",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "verifiedByUs": true,
+      "note": "Eurogamer (Sherif Saed, 26 Nov 2026 15:32 UTC), citing Streams Charts: over 420 million hours of GTA VI livestreams watched on Twitch, YouTube and Kick in its first seven days on sale, nearly three times the previous first-week record (Valorant's closed beta, April 2020) and more than Valorant, Elden Ring, Diablo 4 and Lost Ark combined; 1,056 channels set new all-time peak viewer records while streaming it. An unofficial third-party estimate of watch time, not of players. Opened by us on 26 Nov 2026 at 16:15 UTC."
     },
     {
       "key": "streamViewers20To24Percent",
