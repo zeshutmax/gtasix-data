@@ -6,9 +6,9 @@
     "name": "CC BY 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 26 November 2026)",
-  "generatedAt": "2026-11-27T08:13:36.485Z",
-  "lastChecked": "2026-11-26",
+  "citeAs": "GTA VI HOW (2026). GTA 6 facts with status, sources and check dates. https://gtasix.how/data/ (CC BY 4.0, checked 27 November 2026)",
+  "generatedAt": "2026-11-27T20:08:00.931Z",
+  "lastChecked": "2026-11-27",
   "statusLabels": "https://gtasix.how/editorial-policy/#status-labels",
   "disclaimer": "GTA VI HOW is an independent companion guide. It is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive.",
   "facts": [
@@ -666,6 +666,36 @@
       "checkedAt": "2026-11-23",
       "verifiedByUs": true,
       "note": "GameSpot (Eddie Makuch, 23 Nov 2026 13:47 UTC), citing Rhys Elliott of Alinea Analytics: $4 billion in sales through the first four days (19 to 22 Nov 2026), before the platforms' 30% fee on digital copies. Take-Two's own figure covers day one only (dayOneRetailSalesUsdBillions). An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 23 Nov 2026 at 22:09 UTC."
+    },
+    {
+      "key": "firstWeekUnitsMillions",
+      "value": 53,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GamesRadar+: GTA 6 sales estimates place it above Cyberpunk 2077, The Sims, and the first Pokemon games as the 13th best-selling game ever (27 Nov 2026)",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "verifiedByUs": true,
+      "note": "GamesRadar+ (Scott McCrae, 27 Nov 2026 17:17 UTC), citing Rhys Elliott of Alinea Analytics: 53 million copies sold after a week on the market (to about 26 Nov 2026), 75.7% on PS5, roughly 40 million on PS5 and 13 million on Xbox Series X|S; about 7 million players have played more than 50 hours and 250,000 more than 100 hours. If accurate, GamesRadar+ ranks it the 13th best-selling game ever. An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 27 Nov 2026 at 18:20 UTC."
+    },
+    {
+      "key": "firstWeekRevenueUsdBillions",
+      "value": 4.7,
+      "status": "reported",
+      "sources": [
+        {
+          "name": "GamesRadar+: GTA 6 sales estimates place it above Cyberpunk 2077, The Sims, and the first Pokemon games as the 13th best-selling game ever (27 Nov 2026)",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
+          "tier": "trade"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "verifiedByUs": true,
+      "note": "GamesRadar+ (Scott McCrae, 27 Nov 2026 17:17 UTC), citing Rhys Elliott of Alinea Analytics: $4.7 billion made in the first week, 76.1% of it on PS5 (because of regional prices). Alinea's four-day figure was $4 billion (fourDayRevenueUsdBillions); Take-Two's own figure covers day one only (dayOneRetailSalesUsdBillions). An unofficial third-party estimate, not a Take-Two or Rockstar figure. Opened by us on 27 Nov 2026 at 18:20 UTC."
     },
     {
       "key": "firstSundayPlayersMillions",
